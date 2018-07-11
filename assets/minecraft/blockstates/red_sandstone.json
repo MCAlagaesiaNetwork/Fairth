@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal":[{"model": "red_sandstone_normal/0"},{"model": "red_sandstone_normal/1"},{"model": "red_sandstone_normal/2"}]
+    }
+}
