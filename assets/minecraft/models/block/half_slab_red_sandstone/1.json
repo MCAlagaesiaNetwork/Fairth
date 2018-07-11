@@ -2,7 +2,7 @@
     "parent": "block/half_slab",
     "textures": {
         "bottom": "blocks/dirt",
-        "top": "blocks/dirt_podzol_top",
-        "side": "blocks/dirt_podzol_side"
+        "top": "blocks/grass_path_top",
+        "side": "blocks/grass_path_side_slab"
     }
 }
