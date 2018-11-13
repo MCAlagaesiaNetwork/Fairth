@@ -1,5 +1,10 @@
 {
+    "__comment": "Fairth - Path block replaces red sandstone block",
     "variants": {
-        "normal":[{"model": "red_sandstone_normal/0"},{"model": "red_sandstone_normal/1"},{"model": "red_sandstone_normal/2"}]
+        "": [
+			{ "model": "block/fairth/path/block/0" },
+			{ "model": "block/fairth/path/block/1" },
+			{ "model": "block/fairth/path/block/2" }
+		]
     }
 }
