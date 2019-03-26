@@ -1,0 +1,59 @@
+{
+	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+	"textures": {
+		"particle": "block/dark_oak_planks",
+		"texture": "block/dark_oak_planks"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "top bar",
+			"from": [ 6.75, 13, 0 ],
+			"to": [ 9.25, 15, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.001, 0.5010004, 2.499, 8.499 ], "texture": "#texture" },
+				"up": { "uv": [ 0.001, 0.5010004, 2.499, 8.499 ], "texture": "#texture" },
+				"north": { "uv": [ 0.001, 0.5010004, 2.499, 2.499001 ], "texture": "#texture", "cullface": "north" },
+				"west": { "uv": [ 0.501, 14.001, 8.499, 15.999 ], "texture": "#texture", "rotation": 270 },
+				"east": { "uv": [ 0.501, 14.001, 8.499, 15.999 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "top bar*",
+			"from": [ 6.8125, 0, 0 ],
+			"to": [ 9.3125, 2, 8 ],
+			"faces": {
+				"down": { "uv": [ 9.1865, 7.999001, 6.6885, 0.001000404 ], "texture": "#texture", "cullface": "down" },
+				"up": { "uv": [ 6.8135, 0.001000404, 9.3115, 7.999001 ], "texture": "#texture" },
+				"north": { "uv": [ 6.6885, 14.001, 9.1865, 15.999 ], "texture": "#texture", "cullface": "north" },
+				"west": { "uv": [ 0.001, 14.001, 7.999, 15.999 ], "texture": "#texture", "rotation": 90 },
+				"east": { "uv": [ 8.001, 14.001, 15.999, 15.999 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "lower bar*",
+			"from": [ 7.125, 6, -0.5 ],
+			"to": [ 8.9375, 8, 8.5 ],
+			"rotation": { "origin": [ 7.125, 8, -0.5 ], "axis": "x", "angle": -45 },
+			"faces": {
+				"down": { "uv": [ 0.5, 0.5, 2.3125, 9.5 ], "texture": "#texture" },
+				"up": { "uv": [ 0.5, 0.5, 2.3125, 9.5 ], "texture": "#texture" },
+				"north": { "uv": [ 7.125, 8, 8.9375, 10 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 8, 9, 10 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 8, 9, 10 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "lower bar*",
+			"from": [ 7.1875, 6.5, 1 ],
+			"to": [ 8.875, 8.5, 10.5 ],
+			"rotation": { "origin": [ 7.1875, 8.5, 1 ], "axis": "x", "angle": 45 },
+			"faces": {
+				"down": { "uv": [ 0.5, 0.5, 2.1875, 10 ], "texture": "#texture" },
+				"up": { "uv": [ 0.5, 0.5, 2.1875, 10 ], "texture": "#texture" },
+				"north": { "uv": [ 7.1875, 7.5, 8.875, 9.5 ], "texture": "#texture" },
+				"west": { "uv": [ 1, 7.5, 10.5, 9.5 ], "texture": "#texture" },
+				"east": { "uv": [ 1, 7.5, 10.5, 9.5 ], "texture": "#texture" }
+			}
+		}
+	]
+}
