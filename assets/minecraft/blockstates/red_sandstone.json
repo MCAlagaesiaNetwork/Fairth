@@ -1,10 +1,21 @@
 {
-    "__comment": "Fairth - Path block replaces red sandstone block",
+    "__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
     "variants": {
         "": [
-			{ "model": "block/fairth/path/block/0" },
-			{ "model": "block/fairth/path/block/1" },
-			{ "model": "block/fairth/path/block/2" }
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 90,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 180,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 270,	"weight": 1  },
+			
+			{ "model": "block/pathblock/block.grass_path", "y": 0,		"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 90, 	"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 180, 	"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 270,	"weight": 1  },
+			
+			{ "model": "block/pathblock/block.gravel", "y": 0,			"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 90, 		"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 180, 		"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 270, 		"weight": 1  }
 		]
     }
 }
