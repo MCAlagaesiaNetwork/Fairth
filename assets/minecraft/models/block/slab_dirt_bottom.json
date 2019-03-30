@@ -1,6 +1,5 @@
 {   
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
-	"parent": "block/block",
     "textures": {
         "particle": "block/dirt"
     },
