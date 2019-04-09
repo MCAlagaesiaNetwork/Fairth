@@ -1,0 +1,53 @@
+{
+    "__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/pathblock/slab.bottom.coarse_dirt", "y": 0,	 "weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.coarse_dirt", "y": 90,	 "weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.coarse_dirt", "y": 180, "weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.coarse_dirt", "y": 270, "weight": 1  },
+
+			{ "model": "block/pathblock/slab.bottom.grass_path", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.grass_path", "y": 90, 	"weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.grass_path", "y": 180, "weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.grass_path", "y": 270, "weight": 1  },
+
+			{ "model": "block/pathblock/slab.bottom.gravel", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.gravel", "y": 90, 	"weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.gravel", "y": 180, "weight": 1  },
+			{ "model": "block/pathblock/slab.bottom.gravel", "y": 270, "weight": 1  }
+		],
+        "type=top": [
+			{ "model": "block/pathblock/slab.top.coarse_dirt", "y": 0,	 "weight": 1  },
+			{ "model": "block/pathblock/slab.top.coarse_dirt", "y": 90,	 "weight": 1  },
+			{ "model": "block/pathblock/slab.top.coarse_dirt", "y": 180, "weight": 1  },
+			{ "model": "block/pathblock/slab.top.coarse_dirt", "y": 270, "weight": 1  },
+
+			{ "model": "block/pathblock/slab.top.grass_path", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/slab.top.grass_path", "y": 90,	"weight": 1  },
+			{ "model": "block/pathblock/slab.top.grass_path", "y": 180,"weight": 1  },
+			{ "model": "block/pathblock/slab.top.grass_path", "y": 270,"weight": 1  },
+
+			{ "model": "block/pathblock/slab.top.gravel", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/slab.top.gravel", "y": 90, "weight": 1  },
+			{ "model": "block/pathblock/slab.top.gravel", "y": 180,"weight": 1  },
+			{ "model": "block/pathblock/slab.top.gravel", "y": 270,"weight": 1  }
+		],
+        "type=double": [
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 0,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 90,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 180,	"weight": 1  },
+			{ "model": "block/pathblock/block.coarse_dirt", "y": 270,	"weight": 1  },
+
+			{ "model": "block/pathblock/block.grass_path", "y": 0,		"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 90, 	"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 180, 	"weight": 1  },
+			{ "model": "block/pathblock/block.grass_path", "y": 270,	"weight": 1  },
+
+			{ "model": "block/pathblock/block.gravel", "y": 0,			"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 90, 		"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 180, 		"weight": 1  },
+			{ "model": "block/pathblock/block.gravel", "y": 270, 		"weight": 1  }
+    ]
+		}
+}
