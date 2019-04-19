@@ -1,9 +1,30 @@
 {
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "shadow/pathblock",
-        "top": "shadow/pathblock",
-        "side": "shadow/pathblock"
-    }
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "shadow/pathblock",
+		"top": "shadow/pathblock",
+		"side": "shadow/pathblock"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "core",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 8, 16.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" },
+				"north": { "uv": [ 0, 8, 16, 16 ], "texture": "#bottom" },
+				"south": { "uv": [ 0, 8, 16, 16 ], "texture": "#bottom" },
+				"west": { "uv": [ 0, 8, 16, 16 ], "texture": "#bottom" },
+				"east": { "uv": [ 0, 8, 16, 16 ], "texture": "#bottom" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.625, 0.625, 0.625 ]
+		}
+	}
 }
