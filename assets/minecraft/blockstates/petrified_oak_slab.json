@@ -1,8 +1,0 @@
-{
-"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
-    "variants": {
-        "type=bottom": { "model": "block/slab_dirt_bottom" },
-        "type=top": { "model": "block/slab_dirt_top" },
-        "type=double": { "model": "block/oak_planks" }
-    }
-}
