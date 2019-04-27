@@ -1,0 +1,46 @@
+{
+"__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "": [
+			{ "model": "block/leaves_oak/better_leaves_oak_1", 		   "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_1", "y": 90,  "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_1", "y": 180, "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_1", "y": 270, "weight": 50  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_2",    	   "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_2", "y": 90,  "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_2", "y": 180, "weight": 50  },
+			{ "model": "block/leaves_oak/better_leaves_oak_2", "y": 270, "weight": 50  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_1", 			 "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_1", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_1", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_1", "y": 270, "weight": 5  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_2", 			 "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_2", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_2", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_2", "y": 270, "weight": 5  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_3",		     "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_3", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_3", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_3", "y": 270, "weight": 5  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_4", 			 "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_4", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_4", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_4", "y": 270, "weight": 5  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_5", 			 "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_5", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_5", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_5", "y": 270, "weight": 5  },
+			
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_6", 			 "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_6", "y": 90,  "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_6", "y": 180, "weight": 5  },
+			{ "model": "block/leaves_oak/better_leaves_oak_apple_6", "y": 270, "weight": 5  }
+        ]
+    }
+}

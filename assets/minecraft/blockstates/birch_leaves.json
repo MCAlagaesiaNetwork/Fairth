@@ -1,0 +1,16 @@
+{
+"__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "": [
+		{ "model": "block/leaves_birch/better_leaves_birch_1" },
+		{ "model": "block/leaves_birch/better_leaves_birch_1", "y": 90  },
+		{ "model": "block/leaves_birch/better_leaves_birch_1", "y": 180 },
+		{ "model": "block/leaves_birch/better_leaves_birch_1", "y": 270 },
+		
+		{ "model": "block/leaves_birch/better_leaves_birch_2" },
+		{ "model": "block/leaves_birch/better_leaves_birch_2", "y": 90  },
+		{ "model": "block/leaves_birch/better_leaves_birch_2", "y": 180 },
+		{ "model": "block/leaves_birch/better_leaves_birch_2", "y": 270 }
+				]
+		}
+}

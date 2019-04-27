@@ -1,0 +1,45 @@
+{
+	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+	"textures": {
+		"particle": "block/spruce_leaves",
+		"leaves": "block/spruce_leaves",
+		"extra": "shadow/better_leaves_spruce"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 16, 16, 0, 0 ], "texture": "#leaves", "cullface": "down", "tintindex": 0 },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "up", "tintindex": 0 },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "north", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "south", "tintindex": 0 },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "west", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "east", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -6.815, -8, 14.125 ],
+			"to": [ 25.185, 24, 14.185 ],
+			"rotation": { "origin": [ -6.815, -8, 14.125 ], "axis": "y", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 1.875, -8, -6.815 ],
+			"to": [ 1.935, 24, 25.185 ],
+			"rotation": { "origin": [ 1.875, -8, -6.812 ], "axis": "y", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
+			}
+		}
+	]
+}

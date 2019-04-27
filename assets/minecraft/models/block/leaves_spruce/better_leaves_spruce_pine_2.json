@@ -1,0 +1,66 @@
+{
+	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+	"textures": {
+		"particle": "block/spruce_leaves",
+		"leaves": "block/spruce_leaves",
+		"extra": "shadow/better_leaves_spruce",
+		"pine": "shadow/pine"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "core",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 16, 16, 0, 0 ], "texture": "#leaves", "cullface": "down", "tintindex": 0 },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "up", "tintindex": 0 },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "north", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "south", "tintindex": 0 },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "west", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves", "cullface": "east", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -6.815, -8, 14.125 ],
+			"to": [ 25.185, 24, 14.185 ],
+			"rotation": { "origin": [ -6.815, -8, 14.125 ], "axis": "y", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 1.875, -8, -6.815 ],
+			"to": [ 1.935, 24, 25.185 ],
+			"rotation": { "origin": [ 1.875, -8, -6.812 ], "axis": "y", "angle": 22.5 },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "pine_tile_1",
+			"from": [ 1.5, -5.5, 3.5 ],
+			"to": [ 1.501, 0.5, 7.75 ],
+			"rotation": { "origin": [ 1.5, -5.5, 3.5 ], "axis": "y", "angle": 45 },
+			"faces": {
+				"west": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" },
+				"east": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" }
+			}
+		},
+		{
+			"__comment": "pine_tile_2",
+			"from": [ 4.5, -5.5, 3.5 ],
+			"to": [ 4.501, 0.5, 7.75 ],
+			"rotation": { "origin": [ 4.5, -5.5, 3.5 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"west": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" },
+				"east": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" }
+			}
+		}
+	]
+}
