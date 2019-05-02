@@ -26,6 +26,7 @@
 			"from": [ -2, -6, -2 ],
 			"to": [ -1.999, 22.5, 26.5 ],
 			"rotation": { "origin": [ -2, -6, -2 ], "axis": "y", "angle": 45 },
+			"shade": false,
 			"faces": {
 				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#better_leaves", "tintindex": 0 },
 				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#better_leaves", "tintindex": 0 }
@@ -36,6 +37,7 @@
 			"from": [ -2.0005, -6, 17.9995 ],
 			"to": [ 26.4995, 22.5, 18.0005 ],
 			"rotation": { "origin": [ -2, -6, 18 ], "axis": "y", "angle": 45 },
+			"shade": false,
 			"faces": {
 				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#better_leaves", "tintindex": 0 },
 				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#better_leaves", "tintindex": 0 }
