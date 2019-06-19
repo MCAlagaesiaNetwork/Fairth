@@ -1,0 +1,51 @@
+{
+"__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "": [
+            { "model": "block/lilypad/lilypad", 		  "weight": 30 },
+            { "model": "block/lilypad/lilypad", "y": 90,  "weight": 30 },
+            { "model": "block/lilypad/lilypad", "y": 180, "weight": 30 },
+            { "model": "block/lilypad/lilypad", "y": 270, "weight": 30 },
+			
+			{ "model": "block/lilypad/lilypad_pink_0", 		    "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_0", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_0", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_0", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_pink_1", 		   "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_1", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_1", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_1", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_pink_2", 		  "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_2", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_2", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_pink_2", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_red_0", 		    "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_0", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_0", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_0", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_red_1", 		   "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_1", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_1", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_1", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_red_2", 		  "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_2", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_2", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_red_2", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_white_0",		     "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_0", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_0", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_0", "y": 270, "weight": 2 },
+			
+			{ "model": "block/lilypad/lilypad_white_1",		     "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_1", "y": 90,  "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_1", "y": 180, "weight": 2 },
+            { "model": "block/lilypad/lilypad_white_1", "y": 270, "weight": 2 }
+        ]
+    }
+}

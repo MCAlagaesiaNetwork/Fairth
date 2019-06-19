@@ -1,0 +1,321 @@
+{
+	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/lily_pad"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "lilypad_tile-0",
+			"from": [ 6.5, -1.5, 1 ],
+			"to": [ 10.5, -0.5, 15 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 1, 10.5, 15 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 6.5, 1, 10.5, 15 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 5.500001, 15, 9, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.500001, 15, 9, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 0.5, 9, 14.5, 9.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 0.5, 9, 14.5, 9.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-1",
+			"from": [ 6, -1.5, 1 ],
+			"to": [ 6.5, -0.5, 6 ],
+			"faces": {
+				"down": { "uv": [ 5.999999, 10, 6.499999, 15 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 5.999999, 1, 6.499999, 6 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 8.500001, 12, 9.000001, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.999999, 15, 6.499999, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 3.5, 10.5, 8.5, 11 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-2",
+			"from": [ 10.5, -1.5, 1.5 ],
+			"to": [ 11.5, -0.5, 14 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 14, 11.5, 1.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 10.5, 1.5, 11.5, 14 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 3.5, 10, 4.5, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6, 9.5, 7, 10 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 1, 9, 13.5, 9.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-3",
+			"from": [ 5.5, -1.5, 1.5 ],
+			"to": [ 6, -0.5, 5.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 10.5, 6, 14.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 5.5, 1.5, 6, 5.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 8.5, 12, 9, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.5, 15, 6, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 4, 10.5, 8, 11 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-4",
+			"from": [ 11.5, -1.5, 2 ],
+			"to": [ 12.5, -0.5, 13 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 13, 12.5, 2 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 11.5, 2, 12.5, 13 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 3, 10.5, 4, 11 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5, 9.5, 6, 10 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 1, 9, 12, 9.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-5",
+			"from": [ 5, -1.5, 2 ],
+			"to": [ 5.5, -0.5, 5 ],
+			"faces": {
+				"down": { "uv": [ 5, 11, 5.5, 14 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 5, 2, 5.5, 5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7.5, 11, 8, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.5, 12.5, 6, 13 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 4, 11, 7, 11.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-6",
+			"from": [ 12.5, -1.5, 2.5 ],
+			"to": [ 13, -0.5, 12.5 ],
+			"faces": {
+				"down": { "uv": [ 12.5, 12.5, 13, 2.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 12.5, 2.5, 13, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 5, 10, 5.5, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 8, 11, 8.5, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 2, 9, 12, 9.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-7",
+			"from": [ 4.5, -1.5, 2.5 ],
+			"to": [ 5, -0.5, 4 ],
+			"faces": {
+				"down": { "uv": [ 4.5, 12, 5, 13.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 4.5, 2.5, 5, 4 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 8, 11.5, 8.5, 12 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.5, 12, 6, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 5, 11.5, 6.5, 12 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-8",
+			"from": [ 13, -1.5, 3 ],
+			"to": [ 13.5, -0.5, 12 ],
+			"faces": {
+				"down": { "uv": [ 13, 12, 13.5, 3 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 13, 3, 13.5, 12 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 5.5, 11, 6, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 8.5, 12, 9, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 1, 9.5, 10, 10 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-9",
+			"from": [ 13.5, -1.5, 4 ],
+			"to": [ 14, -0.5, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 13.5, 10.5, 14, 4 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 13.5, 4, 14, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7.5, 10.5, 8, 11 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 8, 11.5, 8.5, 12 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 3, 9.5, 9.5, 10 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-10",
+			"from": [ 14, -1.5, 5 ],
+			"to": [ 14.5, -0.5, 10 ],
+			"faces": {
+				"down": { "uv": [ 14, 10, 14.5, 5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 14, 5, 14.5, 10 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 6.5, 11, 7, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6.5, 11, 7, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 5.5, 11.5, 10.5, 12 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-11",
+			"from": [ 3.5, -1.5, 5.5 ],
+			"to": [ 4, -0.5, 14.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 14.5, 4, 5.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 3.5, 5.5, 4, 14.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 8.5, 11.5, 9, 12 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6.5, 12, 7, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 3, 9, 12, 9.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 2.5, 9.5, 11.5, 10 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-12",
+			"from": [ 3, -1.5, 5.5 ],
+			"to": [ 3.5, -0.5, 14 ],
+			"faces": {
+				"down": { "uv": [ 3, 14, 3.5, 5.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 3, 5.5, 3.5, 14 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7.5, 10.5, 8, 11 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.5, 11.5, 6, 12 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 2.5, 10, 11, 10.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-13",
+			"from": [ 2.5, -1.5, 5.5 ],
+			"to": [ 3, -0.5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 13.5, 3, 5.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 2.5, 5.5, 3, 13.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 9, 11, 9.5, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 7, 10.5, 7.5, 11 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 2.5, 10, 10.5, 10.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-14",
+			"from": [ 4, -1.5, 6 ],
+			"to": [ 5, -0.5, 15 ],
+			"faces": {
+				"down": { "uv": [ 4, 15, 5, 6 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 4, 6, 5, 15 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 6.5, 12.5, 7.5, 13 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6.5, 11.5, 7.5, 12 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 3, 9.5, 12, 10 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 2.5, 10, 11.5, 10.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-15",
+			"from": [ 2, -1.5, 6 ],
+			"to": [ 2.5, -0.5, 13 ],
+			"faces": {
+				"down": { "uv": [ 2, 13, 2.5, 6 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 2, 6, 2.5, 13 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7, 11, 7.5, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6.5, 10.5, 7, 11 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 3.5, 10, 10.5, 10.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-16",
+			"from": [ 1.5, -1.5, 6 ],
+			"to": [ 2, -0.5, 12.5 ],
+			"faces": {
+				"down": { "uv": [ 1.5, 12.5, 2, 6 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 1.5, 6, 2, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7, 11, 7.5, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 7.5, 9, 8, 9.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 4, 10.5, 10.5, 11 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-17",
+			"from": [ 14.5, -1.5, 6.5 ],
+			"to": [ 15, -0.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 14.5, 8.5, 15, 6.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 14.5, 6.5, 15, 8.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 9.500001, 10.5, 10, 11 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 7, 9, 7.5, 9.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 6.5, 15, 8.5, 15.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-18",
+			"from": [ 5.5, -1.5, 6.5 ],
+			"to": [ 6, -0.5, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 5.5, 15.5, 6, 6.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 5.5, 6.5, 6, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 6, 7, 5.5, 6.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5.5, 15, 6, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 5.5, 6.5, 6, 15.5 ], "texture": "#particle", "rotation": 270, "tintindex": 0 },
+				"east": { "uv": [ 6, 6.5, 5.5, 15.5 ], "texture": "#particle", "rotation": 90, "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-19",
+			"from": [ 5, -1.5, 6.5 ],
+			"to": [ 5.5, -0.5, 15 ],
+			"faces": {
+				"down": { "uv": [ 5, 15, 5.5, 6.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 5, 6.5, 5.5, 15 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 5.5, 7, 5, 6.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 5, 14.5, 5.5, 15 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-20",
+			"from": [ 6, -1.5, 7 ],
+			"to": [ 6.5, -0.5, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 6, 7, 6.5, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 6, 7, 6.5, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7.5, 12.5, 8, 13 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6, 15, 6.5, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 0.5, 15, 9, 15.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-21",
+			"from": [ 1, -1.5, 7 ],
+			"to": [ 1.5, -0.5, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 1, 11.5, 1.5, 7 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 1, 7, 1.5, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 7, 9, 7.5, 9.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 8, 10, 8.5, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 4.5, 12.5, 9, 13 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-22",
+			"from": [ 0.5, -1.5, 8.5 ],
+			"to": [ 1, -0.5, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 0.5000004, 10.5, 1, 8.5 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 0.5000004, 8.5, 1, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"north": { "uv": [ 10.5, 10, 11, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 9.5, 10, 10, 10.5 ], "texture": "#particle", "tintindex": 0 },
+				"west": { "uv": [ 6.5, 12.5, 8.5, 13 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-23",
+			"from": [ 11.5, -1.5, 13 ],
+			"to": [ 12, -0.5, 13.5 ],
+			"faces": {
+				"down": { "uv": [ 11.5, 2.5, 12, 3 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 11.5, 13, 12, 13.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 7.5, 12, 8, 12.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 8.5, 10.5, 9, 11 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-24",
+			"from": [ 10.5, -1.5, 14 ],
+			"to": [ 11, -0.5, 14.5 ],
+			"faces": {
+				"down": { "uv": [ 10.5, 1.5, 11, 2 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 10.5, 14, 11, 14.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 9.5, 11, 10, 11.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 7.5, 10.5, 8, 11 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"__comment": "lilypad_tile-25",
+			"from": [ 6.5, -1.5, 15 ],
+			"to": [ 9, -0.5, 15.5 ],
+			"faces": {
+				"down": { "uv": [ 6.5, 15.5, 9, 15 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 6.5, 15, 9, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"south": { "uv": [ 6.5, 15, 9, 15.5 ], "texture": "#particle", "tintindex": 0 },
+				"east": { "uv": [ 8, 11, 8.5, 11.5 ], "texture": "#particle", "tintindex": 0 }
+			}
+		}
+	]
+}
