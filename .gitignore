@@ -1,2 +1,7 @@
 
 .vs/*
+assets/minecraft/textures/font/ascii.xcf
+assets/minecraft/textures/gui/title/background/panorama.xcf
+assets/minecraft/textures/block/packed_ice_old.png
+assets/minecraft/textures/block/ice_old.png
+assets/minecraft/textures/gui/title/edition.png
