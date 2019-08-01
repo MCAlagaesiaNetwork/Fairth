@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/grass/grass_1", "weight": 8 },
+		{ "model": "block/grass/grass_2", "weight": 16 },
+		{ "model": "block/grass/grass_3", "weight": 16 },
+		{ "model": "block/grass/grass_4", "weight": 16 },
+		{ "model": "block/grass/grass_5", "weight": 16 },
+				
+		{ "model": "block/grass/grass_10", "weight": 4 },
+		{ "model": "block/grass/grass_11", "weight": 4 }
+			]
+    }
+}
