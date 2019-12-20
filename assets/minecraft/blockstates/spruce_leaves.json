@@ -32,11 +32,6 @@
 			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 180, "weight": 10 },
 			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 270, "weight": 10 },
 		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 270, "weight": 10 },
-		
 			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "weight": 10 },
 			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "y": 90 , "weight": 10 },
 			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "y": 180, "weight": 10 },

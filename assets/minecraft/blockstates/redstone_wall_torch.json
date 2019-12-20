@@ -1,10 +1,10 @@
 {
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
     "variants": {
-        "facing=east,lit=true":  { "model": "block/torch.off.wall" },
-        "facing=south,lit=true":  { "model": "block/torch.off.wall", "y": 90 },
-        "facing=west,lit=true":  { "model": "block/torch.off.wall", "y": 180 },
-        "facing=north,lit=true":  { "model": "block/torch.off.wall", "y": 270 },
+        "facing=east,lit=true":  { "model": "block/torch_off_wall" },
+        "facing=south,lit=true":  { "model": "block/torch_off_wall", "y": 90 },
+        "facing=west,lit=true":  { "model": "block/torch_off_wall", "y": 180 },
+        "facing=north,lit=true":  { "model": "block/torch_off_wall", "y": 270 },
 		
         "facing=east,lit=false":  { "model": "block/redstone_wall_torch_off" },
         "facing=south,lit=false":  { "model": "block/redstone_wall_torch_off", "y": 90 },

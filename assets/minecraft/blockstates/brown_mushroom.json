@@ -1,0 +1,26 @@
+{
+"__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "": [
+            { "model": "block/mushroom/mushroom_brown_1",			"weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_1", "y": 90,  "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_1", "y": 180, "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_1", "y": 270, "weight": 1 },
+
+			{ "model": "block/mushroom/mushroom_brown_2",			"weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_2", "y": 90,  "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_2", "y": 180, "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_2", "y": 270, "weight": 1 },
+
+            { "model": "block/mushroom/mushroom_brown_3",			"weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_3", "y": 90,  "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_3", "y": 180, "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_3", "y": 270, "weight": 1 },
+
+            { "model": "block/mushroom/mushroom_brown_4",			"weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_4", "y": 90,  "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_4", "y": 180, "weight": 1 },
+            { "model": "block/mushroom/mushroom_brown_4", "y": 270, "weight": 1 }
+		]
+    }
+}

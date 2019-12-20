@@ -1,9 +1,9 @@
 {
   "pack": {
     "pack_format": 4,
-    "description": "The Default Arcaena Resource Pack"
+    "description": "The Default Arcaena Pack Use it ABOVE Faithfull 32x Pack"
   },
   "meta": {
-    "game_version": "1.13"
+    "game_version": "1.14.4"
   }
 }
