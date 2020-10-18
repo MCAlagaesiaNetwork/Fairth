@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 5,
+    "pack_format": 6,
     "description": "The Default Arcaena Pack Use it ABOVE Faithfull 32x Pack"
   },
   "meta": {
-    "game_version": "1.15.2"
+    "game_version": "1.16.2"
   }
 }
