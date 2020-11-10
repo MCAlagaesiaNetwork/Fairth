@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/dark_oak_leaves",
 		"leaves": "block/dark_oak_leaves",
-		"extra": "shadow/better_leaves_big_oak"
+		"extra": "shadow/better_leaves_dark_oak"
 	},
 	"elements": [ 	 
 		{

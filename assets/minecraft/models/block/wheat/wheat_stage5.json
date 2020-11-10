@@ -2,7 +2,7 @@
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "shadow/wheate_particel_1",
+		"particle": "shadow/wheat_particle_1",
 		"crop": "block/wheat_stage5"
 	},
 	"elements": [ 	 
