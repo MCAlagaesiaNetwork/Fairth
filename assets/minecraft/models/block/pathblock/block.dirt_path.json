@@ -2,9 +2,9 @@
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
 	"textures": {
 		"bottom": "block/dirt",
-		"top": "block/grass_path_top",
-		"side": "block/grass_path_side_full",
-		"particle": "block/grass_path_side_full"
+		"top": "block/dirt_path_top",
+		"side": "block/dirt_path_side_full",
+		"particle": "block/dirt_path_side_full"
 	},
 	"elements": [ 	 
 		{

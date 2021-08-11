@@ -3,8 +3,8 @@
 	"textures": {
 		"particle": "block/dirt",
 		"bottom": "block/dirt",
-		"top": "block/grass_path_top",
-		"sides": "block/grass_path_side_full"
+		"top": "block/dirt_path_top",
+		"sides": "block/dirt_path_side_full"
 	},
 	"elements": [ 	 
 		{
