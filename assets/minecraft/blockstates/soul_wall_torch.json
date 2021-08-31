@@ -1,0 +1,9 @@
+{
+	"__comment": "Made by SMarf1, part of the 'Fairth 16x' resource pack|with Cubic Studio|All rights reserved.",
+    "variants": {
+        "facing=east": { "model": "block/torch_soul_wall" },
+        "facing=south": { "model": "block/torch_soul_wall", "y": 90 },
+        "facing=west": { "model": "block/torch_soul_wall", "y": 180 },
+        "facing=north": { "model": "block/torch_soul_wall", "y": 270 }
+    }
+}
