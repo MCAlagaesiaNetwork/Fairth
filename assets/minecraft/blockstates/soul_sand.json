@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/soul_sand/soul_sand0" },
+		{ "model": "block/soul_sand/soul_sand0", "y": 90  },
+		{ "model": "block/soul_sand/soul_sand0", "y": 180 },
+		{ "model": "block/soul_sand/soul_sand0", "y": 270 }
+
+				]
+		}
+}
