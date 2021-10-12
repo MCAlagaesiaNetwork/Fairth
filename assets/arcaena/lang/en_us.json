@@ -1,5 +1,19 @@
 {
 
+  "arcaena.menu.play": "Play",
+  "arcaena.menu.store": "Store",
+  "arcaena.menu.level": "Current Level",
+  "arcaena.menu.rank": "Global Ranking",
+  "arcaena.menu.DeleteSave": "Delete",
+  "arcaena.menu.DuplicateSave": "Duplicate",
+  "arcaena.menu.EditSave": "Edit",
+  "arcaena.menu.playFailed": "Could not connect to server. Please try again later.",
+  "arcaena.menu.newsFailed": "News could not be loaded",
+  "arcaena.menu.switchWarning.title": "Are you sure?",
+  "arcaena.menu.switchWarning.description": "Your premium subscription has ended. Are you sure you want to switch save files? You can only do this once.",
+  "arcaena.menu.switchWarning.switch": "Switch",
+  "arcaena.menu.switchWarning.store": "Go to store",
+
   "arcaena.characterCreator.title": "Character Creator",
   "arcaena.characterCreator.gender": "Gender",
   "arcaena.characterCreator.race": "Race",
@@ -7,6 +21,7 @@
   "arcaena.characterCreator.skin": "Skin",
   "arcaena.characterCreator.custom": "Custom...",
   "arcaena.characterCreator.done": "Done",
+
   "arcaena.skinCreator.title": "Skin Creator",
 
   "item.arcaena.elderberries": "Elderberries",
