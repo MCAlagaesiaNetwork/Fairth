@@ -1,0 +1,1 @@
+The 'arcaena' folder contains all of the textures that will be in Arcaena. They do not do anything in vanilla Minecraft.
