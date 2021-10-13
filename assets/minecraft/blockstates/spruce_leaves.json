@@ -2,45 +2,10 @@
 "__comment":"Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
     "variants": {
         "": [
-			{ "model": "block/leaves_spruce/better_leaves_spruce_1", "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_1", "y": 90 , "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_1", "y": 180, "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_1", "y": 270, "weight": 20 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_2", "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_2", "y": 90 , "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_2", "y": 180, "weight": 20 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_2", "y": 270, "weight": 20 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_1", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_1", "y": 90, "weight": 10  },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_1", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_1", "y": 270, "weight": 10 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_2", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_2", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_2", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_2", "y": 270, "weight": 10 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_3", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_3", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_3", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_3", "y": 270, "weight": 10 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_4", "y": 270, "weight": 10 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_5", "y": 270, "weight": 10 },
-		
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_6", "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_6", "y": 90 , "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_6", "y": 180, "weight": 10 },
-			{ "model": "block/leaves_spruce/better_leaves_spruce_pine_6", "y": 270, "weight": 10 }
-			]
-				}
+		{ "model": "block/leaves/spruce_leaves_1" },
+		{ "model": "block/leaves/spruce_leaves_1", "y": 90 },
+		{ "model": "block/leaves/spruce_leaves_1", "y": 180  },
+		{ "model": "block/leaves/spruce_leaves_1", "y": 270  }
+				]
+		}
 }
