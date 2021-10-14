@@ -1,9 +1,9 @@
 {
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
 	"textures": {
-		"particle": "block/reeds",
-		"texture": "block/reeds",
-		"texture1": "shadow/sugar_cane_leaves"
+		"particle": "block/sugarcane/reeds",
+		"texture": "block/sugarcane/reeds",
+		"texture1": "block/sugarcane/sugar_cane_leaves"
 	},
 	"elements": [ 	 
 		{
