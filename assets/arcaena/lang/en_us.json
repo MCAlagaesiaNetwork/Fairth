@@ -33,6 +33,8 @@
 
   "arcaena.skinCreator.title": "Skin Creator",
 
+  "arcaena.store.title": "Store",
+
   "item.arcaena.elderberries": "Elderberries",
   "item.arcaena.elderberry_bottle": "Elderberry Cordial Bottle",
   "item.arcaena.faelnirv_bottle": "Faelnirv Bottle",
@@ -40,6 +42,24 @@
   "item.arcaena.dragon_egg": "Dragon Egg",
   "item.arcaena.dark_talisman": "Dark Talisman",
   "item.arcaena.spell_book": "Spell Book",
+  "item.arcaena.bandage": "Bandage",
+  "item.arcaena.bandage_roll": "Roll of Bandages",
+  "item.arcaena.scissors": "Scissors",
+  "item.arcaena.gold_coin": "Gold Coin",
+  "item.arcaena.silver_coin": "Silver Coin",
+  "item.arcaena.grappling_hook": "Grappling Hook",
+  "item.arcaena.dauthdaert": "Dauthdaert",
+  "item.arcaena.eldunari": "Eldunarí",
+  "item.arcaena.ointment_bottle": "Ointment Bottle",
+  "item.arcaena.tomato": "Tomato",
+
+  "item.arcaena.glacial_water_bottle": "Glacier Meltwater Bottle",
+  "item.arcaena.fresh_water_bottle": "Fresh Water Bottle",
+  "item.arcaena.ground_water_bottle": "Groundwater Bottle",
+  "item.arcaena.brackish_water_bottle": "Brackish Water Bottle",
+  "item.arcaena.salt_water_bottle": "Salt Water Bottle",
+  "item.arcaena.contaminated_water_bottle": "Contaminated Water Bottle",
+
 
   "item.arcaena.human_spawn_egg": "Human Spawn Egg",
   "item.arcaena.elf_spawn_egg": "Elf Spawn Egg",
@@ -55,6 +75,12 @@
   "item.arcaena.nagra_spawn_egg": "Nagra Spawn Egg",
   "item.arcaena.shrrg_spawn_egg": "Shrrg Spawn Egg",
   "item.arcaena.fanghur_spawn_egg": "Fanghur Spawn Egg",
+
+
+  "block.arcaena.fireweed_bush": "Fireweed Bush",
+  "block.arcaena.elderberry_bush": "Elderberry Bush",
+  "block.arcaena.cardus_weed_bush": "Cardus Weed Bush",
+  "block.arcaena.seithr_plant": "Seithr Plant",
 
   "entity.arcaena.human": "Human",
   "entity.arcaena.elf": "Elf",
@@ -94,6 +120,7 @@
 
   "item.arcaena.attribute.legendary": "Lengendary Weapon",
   "item.arcaena.attribute.exclusive": "Exclusive Item",
+  "item.arcaena.attribute.owner": "Owner: %s",
 
   "____comment": "SUPPORT FOR OPTIFINE FEATURES (SMART LEAVES, DYNAMIC LIGHTS, CTM):"
   "of.options.TREES": "Trees",
@@ -121,6 +148,16 @@
   "of.options.DYNAMIC_LIGHTS.tooltip.5": "Enables light emitting items (torch, glowstone, etc.)",
   "of.options.DYNAMIC_LIGHTS.tooltip.6": "to illuminate everything around them when held in hand,",
   "of.options.DYNAMIC_LIGHTS.tooltip.7": "equipped by other player or dropped on the ground.",
+
+  "arcaena.healing.failure.early_ointment": "The ointment doesn't stick to the wound..."
+  "arcaena.healing.failure.early_healing_healer": "%s can’t be healed for another %s minutes and %s seconds..."
+  "arcaena.healing.failure.early_healing_target": "%s attempted to heal you, but you can’t be healed for another %s minutes and %s seconds…"
+  "arcaena.healing.failure.scissors_late_healer": "You did not cut the bandage in time. %s was not healed."
+  "arcaena.healing.failure.scissors_late_target": "%s did not cut the bandage in time. You were not healed."
+  "arcaena.healing.begin.healer": "You began healing %s."
+  "arcaena.healing.begin.target": "%s began healing you."
+  "arcaena.healing.end.healer": "You healed %s."
+  "arcaena.healing.end.target": "%s healed you."
 
   "arcaena.container.spellBook": "Spell Book",
   "arcaena.container.spellBook_title": "Cast a spell..."
