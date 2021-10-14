@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/oak_planks",
-		"torch": "block/soul_torch",
+		"torch": "block/torch/soul_torch",
 		"anvil_base": "block/anvil"
 	},
 	"elements": [ 	 

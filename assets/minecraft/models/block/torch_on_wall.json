@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/oak_planks",
-		"torch": "block/torch",
+		"torch": "block/torch/torch",
 		"anvil_base": "block/anvil",
-		"flame": "shadow/flame"
+		"flame": "block/torch/flame"
 	},
 	"elements": [ 	 
 		{

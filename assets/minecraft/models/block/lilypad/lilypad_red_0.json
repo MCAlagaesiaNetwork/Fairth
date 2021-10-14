@@ -1,8 +1,8 @@
 {
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
 	"textures": {
-		"particle": "block/lily_pad",
-		"flower": "shadow/lilypad_flower_red_0",
+		"particle": "block/lilypad/lily_pad",
+		"flower": "block/lilypad/lilypad_flower_red_0",
 		"texture": "block/sponge"
 	},
 	"elements": [ 	 

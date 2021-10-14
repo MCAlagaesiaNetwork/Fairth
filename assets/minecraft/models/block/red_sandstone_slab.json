@@ -2,9 +2,9 @@
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
 	"parent": "block/slab",
 	"textures": {
-		"bottom": "shadow/pathblock",
-		"top": "shadow/pathblock",
-		"side": "shadow/pathblock"
+		"bottom": "block/path/pathblock",
+		"top": "block/path/pathblock",
+		"side": "block/path/pathblock"
 	},
 	"elements": [ 	 
 		{
