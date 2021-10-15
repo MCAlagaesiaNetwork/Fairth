@@ -1,0 +1,13 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/ender_pearl"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":201}, "model": "custom/eldunari_blue"},
+ {"predicate": {"custom_model_data":202}, "model": "custom/eldunari_red"},
+ {"predicate": {"custom_model_data":203}, "model": "custom/eldunari_green"}
+
+  ]
+}
