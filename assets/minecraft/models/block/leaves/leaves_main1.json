@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/spruce_leaves_1a"
+		"particle": "#all"
 	},
 	"elements": [
 		{

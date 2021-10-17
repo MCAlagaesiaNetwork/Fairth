@@ -1,7 +1,7 @@
 {
-    "parent":"block/leaves/leaves_main",
+    "parent":"block/leaves/leaves_main1",
     "textures": {
-	"all":"block/spruce_leaves_1a",
-	"extra": "block/spruce_leaves_1b"
+	"all":"block/leaves/spruce_leaves_1a",
+	"extra": "block/leaves/spruce_leaves_1b"
     }
 }
