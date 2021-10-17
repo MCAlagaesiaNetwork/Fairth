@@ -52,6 +52,7 @@
   "item.arcaena.eldunari": "Eldunarí",
   "item.arcaena.ointment_bottle": "Ointment Bottle",
   "item.arcaena.tomato": "Tomato",
+  "item.arcaena.region_wand": "Region Wand",
 
   "item.arcaena.glacial_water_bottle": "Glacier Meltwater Bottle",
   "item.arcaena.fresh_water_bottle": "Fresh Water Bottle",
@@ -158,6 +159,11 @@
   "arcaena.healing.begin.target": "%s began healing you."
   "arcaena.healing.end.healer": "You healed %s."
   "arcaena.healing.end.target": "%s healed you."
+
+  "arcaena.regionEdit.pos1": "Position 1 set"
+  "arcaena.regionEdit.pos2": "Position 2 set"
+  "arcaena.regionEdit.failure.outside": "Cannot create regions outside of this world"
+  "arcaena.regionEdit.success": "Region Created"
 
   "arcaena.container.spellBook": "Spell Book",
   "arcaena.container.spellBook_title": "Cast a spell..."
