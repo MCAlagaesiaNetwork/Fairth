@@ -1,0 +1,11 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/snowball"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":10004}, "model": "custom/tomato"}
+
+  ]
+}

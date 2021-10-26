@@ -6,9 +6,9 @@ New Features
 - Daylight sensors now appear as stacks of books.
 - Replaced Beacon texture with a Pedestal.
 - Added Soul Sand texture.
-- Added soul torch model.
+- Added Soul Torch model.
 - Replaced Enchantment table particles with Ancient Language Glyphs. 3 of these can also be typed by pasting ① ② ③.
-- Replaced Mojang Studios logo on RP loading screen with Arcaena Logo.
+- Replaced Mojang Studios logo on the Resource Pack loading screen with Arcaena Logo.
 - Replaced dirt texture in the options background with the bottom of a barrel.
 - Replaced menu button textures to more closely match the inventory GUIs.
 - Added GUI textures for advancements, bundles and villagers.
@@ -19,12 +19,13 @@ New Features
 Changes
 
 - Made text in inventories appear white, to better fit with the inventory retexture.
-- Replaced Spruce Leaves texture.
-
--Reorganised
+- Replaced Leaves models with new ones.
+- Removed textures for bandage roll, scissors, tomato, gold coin and silver coin; and made these obtainable through CustomModelData instead (see wiki for codes).
 
 
 Fixes
+
+- Fixed a bug where the Silver Coin texture was stretched (due to incorrect image size).
 
 
 
@@ -33,4 +34,4 @@ Arcaena Preparation
 - Added all Arcaena-related textures to an 'arcaena' folder.
 - Added an Arcaena language file.
 - Added basic models for new Arcaena items.
-- Added Arcaena GUI textures for the Spellbook, main menu and modified survival inventory.
+- Added Arcaena GUI textures for the Spellbook, main menu and modified the survival inventory to add new slots for accessories.
