@@ -1,0 +1,11 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/shears"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":10005}, "model": "custom/scissors"}
+
+  ]
+}
