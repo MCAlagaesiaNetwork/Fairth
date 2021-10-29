@@ -8,7 +8,10 @@ The following blocks need to be converted to their own blocks in Arcaena when de
 
 - Redstone Torch -> Burnt-out Torch
 - Red Sandstone Slab -> Path Block Slab, Dirt Slab, Coarse Dirt Slab, Gravel Slab
-- Shulker Boxes -> Crates (maybe this one isn't necessary)
+- Shulker Boxes -> Crates
+- Daylight Sensor -> Stack of Books
+- Redstone Dust -> Bloodstains
+- Creeper Banner Pattern -> Arcaena Logo Banner Pattern (maybe? This would be harder to swap out, as you can't do it with commands)
 
 --------------------
 
