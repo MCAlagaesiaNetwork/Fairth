@@ -1,6 +1,6 @@
 {
 	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
     "variants": {
-        "": { "model": "block/torch_on" }
+        "": { "model": "block/torch/torch_on" }
     }
 }
