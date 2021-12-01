@@ -31,3 +31,5 @@ Items:
 - Region Wand
 - Scissors
 - Tomato
+- Compendium
+- Decaying Compendium
