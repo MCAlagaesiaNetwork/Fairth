@@ -33,3 +33,4 @@ Items:
 - Tomato
 - Compendium
 - Decaying Compendium
+- Tinkledeath
