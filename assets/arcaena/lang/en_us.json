@@ -38,7 +38,6 @@
   "item.arcaena.elderberries": "Elderberries",
   "item.arcaena.elderberry_bottle": "Elderberry Cordial Bottle",
   "item.arcaena.faelnirv_bottle": "Faelnirv Bottle",
-  "item.arcaena.rider_sword": "Rider's Sword",
   "item.arcaena.dragon_egg": "Dragon Egg",
   "item.arcaena.dark_talisman": "Dark Talisman",
   "item.arcaena.spell_book": "Spell Book",
@@ -48,7 +47,6 @@
   "item.arcaena.gold_coin": "Gold Coin",
   "item.arcaena.silver_coin": "Silver Coin",
   "item.arcaena.grappling_hook": "Grappling Hook",
-  "item.arcaena.dauthdaert": "Dauthdaert",
   "item.arcaena.eldunari": "Eldunarí",
   "item.arcaena.ointment_bottle": "Ointment Bottle",
   "item.arcaena.scissors": "Scissors",
@@ -64,6 +62,9 @@
   "item.arcaena.salt_water_bottle": "Salt Water Bottle",
   "item.arcaena.contaminated_water_bottle": "Contaminated Water Bottle",
 
+  "item.arcaena.tinkledeath": "Tinkledeath",
+  "item.arcaena.dauthdaert": "Dauthdaert",
+  "item.arcaena.rider_sword": "Rider's Sword",
 
   "item.arcaena.human_spawn_egg": "Human Spawn Egg",
   "item.arcaena.elf_spawn_egg": "Elf Spawn Egg",
