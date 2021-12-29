@@ -20,6 +20,9 @@ The 'arcaena' folder also contains assets for the following unique Arcaena block
 Blocks:
 
 - Pedestal
+- Framed Glass
+- Framed Glass Pane
+- Gold Bricks
 
 Items:
 
@@ -34,3 +37,4 @@ Items:
 - Compendium
 - Decaying Compendium
 - Tinkledeath
+- Brightsteel Ingot
