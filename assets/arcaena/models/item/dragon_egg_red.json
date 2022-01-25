@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "arcaena:item/dragon_egg/dragon_egg_red"
-  }
-}
