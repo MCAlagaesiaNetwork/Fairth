@@ -2,7 +2,6 @@
 assets/minecraft/textures/block/packed_ice_old.png
 assets/minecraft/textures/block/ice_old.png
 
-assets/minecraft/textures/shadow/debug/*
 assets/minecraft/textures/gui/container/RAW/*
 
 *.xcf
@@ -12,4 +11,3 @@ assets/minecraft/textures/gui/container/RAW/*
 assets/minecraft/textures/block/blue_orchid.png
 assets/minecraft/textures/gui/title/mojang.png
 assets/minecraft/textures/gui/container/RAW/*
-assets/minecraft/textures/shadow/better_leaves_spruce_lessPIXELS.png
