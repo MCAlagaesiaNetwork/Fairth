@@ -1,14 +1,14 @@
 {
-	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved. | Modified by Its_Mark",
     "variants": {
-        "facing=east,lit=true":  { "model": "block/torch/torch_off_wall" },
-        "facing=south,lit=true":  { "model": "block/torch/torch_off_wall", "y": 90 },
-        "facing=west,lit=true":  { "model": "block/torch/torch_off_wall", "y": 180 },
-        "facing=north,lit=true":  { "model": "block/torch/torch_off_wall", "y": 270 },
-		
-        "facing=east,lit=false":  { "model": "block/torch/torch_off_wall" },
-        "facing=south,lit=false":  { "model": "block/torch/torch_off_wall", "y": 90 },
-        "facing=west,lit=false":  { "model": "block/torch/torch_off_wall", "y": 180 },
-        "facing=north,lit=false":  { "model": "block/torch/torch_off_wall", "y": 270 }
+        "facing=east,lit=true":  { "model": "block/torch/redstone_torch_on_wall" },
+        "facing=south,lit=true":  { "model": "block/torch/redstone_torch_on_wall", "y": 90 },
+        "facing=west,lit=true":  { "model": "block/torch/redstone_torch_on_wall", "y": 180 },
+        "facing=north,lit=true":  { "model": "block/torch/redstone_torch_on_wall", "y": 270 },
+
+        "facing=east,lit=false":  { "model": "block/torch/redstone_torch_off_wall" },
+        "facing=south,lit=false":  { "model": "block/torch/redstone_torch_off_wall", "y": 90 },
+        "facing=west,lit=false":  { "model": "block/torch/redstone_torch_off_wall", "y": 180 },
+        "facing=north,lit=false":  { "model": "block/torch/redstone_torch_off_wall", "y": 270 }
     }
 }

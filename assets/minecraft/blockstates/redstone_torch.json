@@ -1,7 +1,11 @@
 {
-	"__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved.",
+    "__comment": "Made by Shadow204, part of the 'Fairth 32x' resource pack|with Cubic Studio|All rights reserved. | Modified by Its_Mark",
     "variants": {
-        "lit=true":  { "model": "block/torch/torch_off" },
-        "lit=false":  { "model": "block/torch/torch_off" }
+        "lit=false": {
+            "model": "block/torch/redstone_torch_off"
+        },
+        "lit=true": {
+            "model": "block/torch/redstone_torch_on"
+        }
     }
 }
